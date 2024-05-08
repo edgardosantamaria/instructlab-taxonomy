@@ -36,5 +36,5 @@ jobs:
             It will be automatically closed if no further activity occurs within 30 days.
           close-pr-message: >
             This pull request has been automatically closed due to inactivity.
-          days-before-stale: 90
-          days-before-close: 30
+          days-before-stale: 15
+          days-before-close: 31
